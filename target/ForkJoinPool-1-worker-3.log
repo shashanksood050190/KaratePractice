@@ -1,0 +1,282 @@
+23:28:32.430 [print] 790b96e9eba7ee0cb4da894a8325ecd49df54e3666959246973c3ddd4fcbfab1
+23:28:33.802 request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Accept-Encoding: gzip,deflate
+1 > Authorization: Bearer 790b96e9eba7ee0cb4da894a8325ecd49df54e3666959246973c3ddd4fcbfab1
+1 > Connection: Keep-Alive
+1 > Host: gorest.co.in
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/13.0.2)
+
+23:28:34.445 response time in milliseconds: 639.40
+1 < 200
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 29 Dec 2021 04:27:38 GMT
+1 < ETag: W/"55cffad186ddb106aa50dca717c9f327"
+1 < Referrer-Policy: strict-origin-when-cross-origin
+1 < Server: nginx
+1 < Strict-Transport-Security: max-age=63072000; includeSubDomains
+1 < Transfer-Encoding: chunked
+1 < Vary: [Accept-Encoding, Origin]
+1 < X-Content-Type-Options: nosniff
+1 < X-Download-Options: noopen
+1 < X-Frame-Options: SAMEORIGIN
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < X-Request-Id: 84d9af92-8ef5-46df-bdd0-c30c76241598
+1 < X-Runtime: 0.009638
+1 < X-XSS-Protection: 0
+{"meta":null,"data":{"id":30,"name":"Prof. Shakuntala Asan","email":"shakuntala_prof_asan@stehr.co","gender":"male","status":"active"}}
+
+:02.989 [print] {
+  "data": {
+    "gender": "male",
+    "name": "Prof. Shakuntala Asan",
+    "id": 30,
+    "email": "shakuntala_prof_asan@stehr.co",
+    "status": "active"
+  },
+  "meta": null
+}
+
+23:13:03.010 request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Type: text/xml;charset=ISO-8859-1
+1 > Host: gorest.co.in
+1 > User-Agent: Mozilla/4.0(compatible;IE;GACv7 1 5192 22378)
+
+23:13:03.383 response time in milliseconds: 366.11
+1 < 200
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 29 Dec 2021 04:12:07 GMT
+1 < ETag: W/"55cffad186ddb106aa50dca717c9f327"
+1 < Referrer-Policy: strict-origin-when-cross-origin
+1 < Server: nginx
+1 < Strict-Transport-Security: max-age=63072000; includeSubDomains
+1 < Transfer-Encoding: chunked
+1 < Vary: [Accept-Encoding, Origin]
+1 < X-Content-Type-Options: nosniff
+1 < X-Download-Options: noopen
+1 < X-Frame-Options: SAMEORIGIN
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < X-Request-Id: 389b857c-1ef6-4bdb-a856-a38ad5b95f25
+1 < X-Runtime: 0.003841
+1 < X-XSS-Protection: 0
+{"meta":null,"data":{"id":30,"name":"Prof. Shakuntala Asan","email":"shakuntala_prof_asan@stehr.co","gender":"male","status":"active"}}
+
+23:13:03.387 [print] {
+  "data": {
+    "gender": "male",
+    "name": "Prof. Shakuntala Asan",
+    "id": 30,
+    "email": "shakuntala_prof_asan@stehr.co",
+    "status": "active"
+  },
+  "meta": null
+}
+
+23:13:03.415 request:
+1 > GET https://gorest.co.in/public/v1/users/30
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Type: text/xml;charset=ISO-8859-1
+1 > Host: gorest.co.in
+1 > User-Agent: Mozilla/4.0(compatible;IE;GACv7 1 5192 22378)
+
+23:13:03.729 response time in milliseconds: 311.55
+1 < 200
+1 < Cache-Control: max-age=0, private, must-revalidate
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 29 Dec 2021 04:12:08 GMT
+1 < ETag: W/"55cffad186ddb106aa50dca717c9f327"
+1 < Referrer-Policy: strict-origin-when-cross-origin
+1 < Server: nginx
+1 < Strict-Transport-Security: max-age=63072000; includeSubDomains
+1 < Transfer-Encoding: chunked
+1 < Vary: [Accept-Encoding, Origin]
+1 < X-Content-Type-Options: nosniff
+1 < X-Download-Options: noopen
+1 < X-Frame-Options: SAMEORIGIN
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < X-Request-Id: 10f37cf2-a7c9-458b-9011-7358431b25fd
+1 < X-Runtime: 0.003946
+1 < X-XSS-Protection: 0
+{"meta":null,"data":{"id":30,"name":"Prof. Shakuntala Asan","email":"shakuntala_prof_asan@stehr.co","gender":"male","status":"active"}}
+
+23:13:03.730 [print] {
+  "data": {
+    "gender": "male",
+    "name": "Prof. Shakuntala Asan",
+    "id": 30,
+    "email": "shakuntala_prof_asan@stehr.co",
+    "status": "active"
+  },
+  "meta": null
+}
+
+r":"female","status":"active"},{"id":36,"name":"Gopee Nayar","email":"nayar_gopee@armstrong.com","gender":"male","status":"active"},{"id":38,"name":"Kanishka Devar","email":"devar_kanishka@williamson.com","gender":"male","status":"active"},{"id":39,"name":"Girja Embranthiri","email":"embranthiri_girja@hilpert-bogisich.com","gender":"male","status":"active"},{"id":43,"name":"Dr. Ojaswini Nair","email":"ojaswini_dr_nair@johnson-terry.org","gender":"female","status":"active"},{"id":44,"name":"Nalini Guneta","email":"guneta_nalini@cronin.biz","gender":"male","status":"active"},{"id":45,"name":"Mayoor Acharya","email":"acharya_mayoor@crooks-reichert.com","gender":"female","status":"active"},{"id":46,"name":"Girija Mukhopadhyay","email":"girija_mukhopadhyay@leuschke.com","gender":"male","status":"active"},{"id":47,"name":"Kumar Pilla","email":"kumar_pilla@hansen.co","gender":"female","status":"active"}]}
+
+02:18:32.065 [print] {
+  "data": [
+    {
+      "gender": "female",
+      "name": "Juhi Sodagar ",
+      "id": 2311,
+      "email": "juhixys@15ce.com",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Test Name Testing",
+      "id": 2314,
+      "email": "test-9910@mail.ca",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Karunanidhi Singh",
+      "id": 12,
+      "email": "karunanidhi_singh@harber-ferry.com",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Bhaumik Kaur",
+      "id": 14,
+      "email": "bhaumik_kaur@robel.io",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Priya Guha VM",
+      "id": 15,
+      "email": "vm_priya_guha@boyle.io",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Gautami Bandopadhyay",
+      "id": 19,
+      "email": "bandopadhyay_gautami@kshlerin.info",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Aagneya Kaur",
+      "id": 20,
+      "email": "kaur_aagneya@yost-macejkovic.net",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Pres. Deeptimayee Prajapat",
+      "id": 21,
+      "email": "deeptimayee_pres_prajapat@schowalter-lynch.org",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Dev Sinha",
+      "id": 23,
+      "email": "sinha_dev@ebert.io",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Mahendra Kakkar DVM",
+      "id": 30,
+      "email": "dvm_mahendra_kakkar@ebert.io",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Prayag Khatri Sr.",
+      "id": 31,
+      "email": "khatri_prayag_sr@parker.info",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Manikya Naik",
+      "id": 32,
+      "email": "naik_manikya@prohaska.net",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Gopee Nayar",
+      "id": 36,
+      "email": "nayar_gopee@armstrong.com",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Kanishka Devar",
+      "id": 38,
+      "email": "devar_kanishka@williamson.com",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Girja Embranthiri",
+      "id": 39,
+      "email": "embranthiri_girja@hilpert-bogisich.com",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Dr. Ojaswini Nair",
+      "id": 43,
+      "email": "ojaswini_dr_nair@johnson-terry.org",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Nalini Guneta",
+      "id": 44,
+      "email": "guneta_nalini@cronin.biz",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Mayoor Acharya",
+      "id": 45,
+      "email": "acharya_mayoor@crooks-reichert.com",
+      "status": "active"
+    },
+    {
+      "gender": "male",
+      "name": "Girija Mukhopadhyay",
+      "id": 46,
+      "email": "girija_mukhopadhyay@leuschke.com",
+      "status": "active"
+    },
+    {
+      "gender": "female",
+      "name": "Kumar Pilla",
+      "id": 47,
+      "email": "kumar_pilla@hansen.co",
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 779,
+      "pages": 39,
+      "limit": 20,
+      "links": {
+        "next": "https://gorest.co.in/public/v1/users?page=2",
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "previous": null
+      },
+      "page": 1
+    }
+  }
+}
+
+02:18:32.085 [print] 20
